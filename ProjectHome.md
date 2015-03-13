@@ -1,0 +1,1 @@
+The aim of this project is to use the ultrasonic sensor and send readings via USART in a STM32F0 board. This project was done by Sunny Amatya and Aayush Jung Rana.
